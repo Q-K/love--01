@@ -1,0 +1,1 @@
+cat platforms/win32/love.exe 01.love > build/01.exe
